@@ -1,0 +1,21 @@
+.bannerOne{
+    position: relative;
+    margin: 0 auto;
+}
+
+.bannerOne img{ widows: 100%;}
+
+
+.CitySelector{
+    font-size: 18px;
+    position: absolute;
+    top : 250px;
+    margin-left: 400px;
+ }
+
+ .OptionStyle{
+    margin: 5px;
+    padding: 15px;
+    color: black;
+    background:lightslategray;
+ }
